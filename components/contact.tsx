@@ -134,8 +134,8 @@ export default function Contact() {
                   <Mail className="w-6 h-6 text-blue-600 flex-shrink-0 group-hover:scale-110 transition-transform" />
                   <div>
                     <p className="text-sm font-semibold text-slate-600 mb-1">Email</p>
-                    <a href="mailto:contact@samnvay.legal" className="text-blue-600 hover:text-blue-700 font-medium">
-                      contact@samnvay.legal
+                    <a href="mailto:alaka@samnvay.com" className="text-blue-600 hover:text-blue-700 font-medium">
+                      alaka@samnvay.com
                     </a>
                   </div>
                 </div>
