@@ -16,7 +16,7 @@ export default function Footer() {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className={`transition-all duration-1000 ${isLoaded ? "animate-fade-in-up" : "opacity-0"}`}>
             <div className="flex items-center gap-2 mb-4 group cursor-pointer">
-              <Image src="/Samnvay-logo-white.png" alt="Samnvay Logo" width={200} height={40} className="object-contain" />
+              <Image src="/Samnvay-logo-new-white.png" alt="Samnvay Logo" width={200} height={40} className="object-contain" />
             </div>
             <p className="text-sm leading-relaxed">Making justice accessible, affordable, and timely for everyone.</p>
           </div>
